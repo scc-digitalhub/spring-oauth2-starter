@@ -1,0 +1,10 @@
+security:
+  oauth2:
+    resourceserver:
+      jwt:
+        issuer-uri: 
+        client-id: 
+      opaque-token:
+        introspection-uri: 
+        client-id: 
+        client-secret: 

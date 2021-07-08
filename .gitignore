@@ -1,0 +1,8 @@
+target/
+.mvn/timing.properties
+.project
+.classpath
+*.prefs
+.settings/
+*.jar
+*~
